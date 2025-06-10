@@ -33,10 +33,6 @@ The application requires the following Python packages:
 
 Install all required dependencies using the provided requirements.txt file:
 
-```bash
-pip install -r requirements.txt
-```
-
 
 ## License
 
