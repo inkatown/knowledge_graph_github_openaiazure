@@ -2,7 +2,7 @@
 
 A Streamlit notebook that extract graph data (entities and relationships) from text input using LangChain and OpenAI's GPT models, and generates interactive graphs.
 
-👉 This repo is a modificatio of this youtube tutorial but using an API key from GitHub Markeetplace 
+👉 This repo is a modification of this youtube tutorial but using an API key from GitHub Markeetplace 
 [![](https://img.youtube.com/vi/O-T_6KOXML4/0.jpg)](https://www.youtube.com/watch?v=O-T_6KOXML4)
 
 ## Features
